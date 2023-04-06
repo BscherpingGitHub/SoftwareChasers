@@ -4,7 +4,7 @@
 DB_HOST = "softwarec.cwmrd99bpx4t.us-east-1.rds.amazonaws.com"
 DB_NAME = "Group2"
 DB_user = "postgres"
-DB_Pass = "Computer"
+DB_Pass = "null" 
 
 import psycopg2
 from psycopg2.errors import UniqueViolation
